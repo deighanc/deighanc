@@ -15,26 +15,26 @@ An aspiring Data Scientist with a strong background in project management and qu
 ### HyperionDev Skills Boot Camp
 #### HyperionDev (Remote)
 
-Accepted onto a competitive 16-week Department of Education Data Skills Boot camp. 
-Developed knowledge and understanding of data science fundamentals. Applied understanding of python through the completion of 25 practical exercises and projects.
+- Accepted onto a competitive 16-week Department of Education Data Skills Boot camp. 
+- Developed knowledge and understanding of data science fundamentals. Applied understanding of python through the completion of 25 practical exercises and projects.
 
 - Technology used 🚀: Python, Jupyter, Visual Studio.
 
 ### Housing Administrator
 #### Green Bridge Community Housing (Sheffield, UK)
 
-Managed 6 databases regarding property records and Service User records and Human Resources. Analyzed repairs tracking data to identify key trends and reduce expenditure by 10%. 
-Implemented project management tools such as Trello to improve efficiency by 20%. 
-Influenced a variety of internal partners, promoting and demonstrating the value of data.
+- Managed 6 databases regarding property records and Service User records and Human Resources. Analyzed repairs tracking data to identify key trends and reduce expenditure by 10%. 
+- Implemented project management tools such as Trello to improve efficiency by 20%. 
+- Influenced a variety of internal partners, promoting and demonstrating the value of data.
 
 - Technology used 🚀: Excel, Airtable, Google Suite.
 
 ### Senior Consultant
 #### Ten10 Solutions Ltd (London, UK)
 
-Responsible for the quality assurance activities within the team, including Functional, Compatibility, and User Acceptance Testing. 
-Created user story acceptance to achieve buy-in from 10 stakeholder groups and refined stories with the scrum team. 
-Established as an accessibility subject-matter expert due to accessibility audits on 3 national projects for critical strategic quality assurance milestones.
+- Responsible for the quality assurance activities within the team, including Functional, Compatibility, and User Acceptance Testing. 
+- Created user story acceptance to achieve buy-in from 10 stakeholder groups and refined stories with the scrum team. 
+- Established as an accessibility subject-matter expert due to accessibility audits on 3 national projects for critical strategic quality assurance milestones.
 
 - Technology used 🚀: Linux, Docker, AWS, Postman Excel, Confluence, JIRA.
 
