@@ -2,7 +2,6 @@
 
 Aspiring Data Scientist with a strong background in project management and quality engineering. Bringing valuable insights to retail, financial services, and public sector clients through data-driven solutions.
 
-- Contact 📞: 07865306523
 - Email 📧: deighanirvin@googlemail.com
 - LinkedIn 💼: [deighan-cass](https://www.linkedin.com/in/deighan-cass/)
 - GitHub 🐙: [mgoolsbyaz](https://github.com/mgoolsbyaz)
