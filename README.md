@@ -1,11 +1,3 @@
-<!--
-**deighanc/deighanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on building an awesome data science portfolio 
-- 🌱 I’m currently learning python, machine learning, and data visualisation. 
-
 # Deighan Cass 👨‍💻
 
 Aspiring Data Scientist with a strong background in project management and quality engineering. Bringing valuable insights to retail, financial services, and public sector clients through data-driven solutions.
@@ -60,7 +52,7 @@ Responsible for the quality assurance activities within the team, including Func
 ## Open-Source Projects 🚀
 
 ### Finance Calculator
-GitHub Repository contains a finance calculator project that was completed in addition to simple linear regression analysis work conducted in Jupyter notebook.
+GitHub Repository that contains a finance calculator project that was completed in addition to simple linear regression analysis work that was conducted in Jupyter notebook.
 [GitHub Repository](https://github.com/deighanc/DS-Bootcsmp)
 
 ### Data Science (Fundamentals) Portfolio
@@ -79,6 +71,5 @@ Available upon request.
 ## Achievements 🏆
 
 - Ranked 20 out of 981 students in their Data Science Boot camp.
-- Achieved AWS Cloud Practitioner certification. Applied knowledge and understanding of AWS services to
-.
--->
+- Achieved AWS Cloud Practitioner certification. Applied knowledge and understanding of AWS services to the context of
+
