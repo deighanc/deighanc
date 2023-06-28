@@ -74,6 +74,6 @@ Available upon request.
 
 ## Achievements 🏆
 
-- Ranked 20 out of 981 students in their Data Science Boot camp.
+- Ranked 13 out of 981 students in their Data Science Boot camp.
 - Achieved AWS Cloud Practitioner certification. Applied knowledge and understanding of AWS services to the context of
 
